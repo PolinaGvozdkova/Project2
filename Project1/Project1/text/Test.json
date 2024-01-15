@@ -1,0 +1,53 @@
+{
+  "person": {
+    "name": "Виолетта Джиксон",
+    "dialog": [
+      "Привет, странствующий герой! Я буду твоим координатором,\nпока ты в нашем королевстве.",
+      "На королевство Риндор напало чудовище, нам потребуется \nтвоя помощь в этом сражении.",
+      "Управляй техниками персонажей, чтобы нанести урон и следи \nза их здоровьем.",
+      "Жду от тебя новых подвигов! Пора в бой!"
+    ],
+    "city": "Риндор"
+  },
+  "heroes": [
+    {
+      "name": "Deny",
+      "image": "image/hero/Actor2_6.png",
+      "heroHP": 120,
+      "force": 80,
+      "posX": 5,
+      "posY": 700,
+      "speed": 10
+    },
+    {
+      "name": "Leon",
+      "image": "image/hero/Actor1_5.png",
+      "heroHP": 80,
+      "force": 120,
+      "posX": 30,
+      "posY": 700,
+      "speed": 54
+    },
+    {
+      "name": "Meryscilla",
+      "image": "image/hero/Goddess.png",
+      "heroHP": 200,
+      "force": 10000000,
+      "posX": 60,
+      "posY": 700,
+      "speed": 100
+    }
+  ],
+  "enemy": [
+    {
+      "name": "Ogre",
+      "image": "image/enemy/Ogre.png",
+      "enemyHP": 1900000000,
+      "force": 40,
+      "posX": 1200,
+      "posY": 300,
+      "speed": 230
+    }
+  ]
+}
+

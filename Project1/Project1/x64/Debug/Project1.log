@@ -1,0 +1,25 @@
+﻿  Game.cpp
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(27,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(153,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(225,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(333,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(353,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(353,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(360,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(360,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(370,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(370,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(378,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(378,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(388,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(388,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(398,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(398,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(526,38): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(535,38): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\roses\source\repos\Project1\Project1\Game.cpp(544,38): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Menu.cpp
+  TextJ.cpp
+C:\Users\roses\source\repos\Project1\Project1\text\TextJ.cpp(79,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Project1.vcxproj -> C:\Users\roses\source\repos\Project1\x64\Debug\Project1.exe
